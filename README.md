@@ -9,7 +9,7 @@
 
 ## ABOUT ME 
 
-- 🤏 Junior Developer!
+- 🤏 Frontend Developer!
 
 - 🔭 Still looking for the first job . . .
 

@@ -9,16 +9,16 @@
 
 ## ABOUT ME 
 
-- 🤏 Frontend Developer!
+- 💪 Full-Stack Developer!
 
 - 🔭 Still looking for the first job . . .
 
-- 🌱 Currently studying: ReactJS, Typescript and SQL.
+- 🌱 Atualmente Eestudando Análise de Dados e Python
 
-- 🌲 What I already know: HTML, CSS, JavaScript, EJS and NodeJS.
+- 🌲 Alguns dos meus conhecimentos: TypeScript, NodeJS, C#, Sass.
 
-- 💬 Ask me a question =D
+- 💬 Me Apoie Curtindo e Comentando no meu Linkedin
 
-- 📫 Talk to me on LinkedIn or Instagram -> @alan_zuccoli.
+- 📫 Visite meu Linkedin -> https://www.linkedin.com/in/alanzuccoli/
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlanZuccoli&color=yellow" alt="Profile views" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlanZuccoli&color=blue" alt="Profile views" /> </p>

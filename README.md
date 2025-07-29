@@ -11,7 +11,7 @@
 
 - 💪 Full-Stack Developer!
 
-- 🔭 Still looking for the first job . . .
+- 🔭 Semeando Conhecimento ♡
 
 - 🌱 Atualmente Eestudando Análise de Dados e Python
 

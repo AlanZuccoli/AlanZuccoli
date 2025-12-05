@@ -13,11 +13,11 @@
 
 - 🔭 Semeando Conhecimento ♡
 
-- 🌱 Atualmente Eestudando Análise de Dados e Python
+- 🌱 Atualmente Eestudando Desenvolvimento Web
 
-- 🌲 Alguns dos meus conhecimentos: TypeScript, NodeJS, C#, Sass.
+- 🌲 Alguns dos meus conhecimentos: JavaScript, React, C#, Sass.
 
-- 💬 Me Apoie Curtindo e Comentando no meu Linkedin
+- 💬 Me apoie interagindo com o meu perfil no Linkedin :)
 
 - 📫 Visite meu Linkedin -> https://www.linkedin.com/in/alanzuccoli/
 
